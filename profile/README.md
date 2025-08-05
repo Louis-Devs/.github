@@ -8,5 +8,5 @@ La Organizacion de Devs, especialmente en Balatro
 <a href="https://lua.org"><img src="https://svgl-badge.vercel.app/api/Language/Lua?theme=light" alt="Logo de Lua"></a>
 
 ## Nuestros Devs
-<img src="../221932466 1.png" alt="Foto de Louis"/>
-<img src="../151367564 1.png" alt="Foto de Anto"/>
+<img src="./221932466 1.png" alt="Foto de Louis"/>
+<img src="./151367564 1.png" alt="Foto de Anto"/>
